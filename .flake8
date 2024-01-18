@@ -1,0 +1,13 @@
+[flake8]
+max-line-length = 120
+exclude =
+    .git,
+    pycache,
+    docs/source/conf.py,
+    old,
+    build,
+    dist
+    *.ipynb
+    venv
+    .pytest_cache
+    *.ipynb*

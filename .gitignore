@@ -1,0 +1,5 @@
+/venv
+/paradox
+/birthdayparadox.py
+/.pytest_cache
+*/.pytest_cache
